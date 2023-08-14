@@ -13,7 +13,8 @@ li a:hover{
     background-image: url('image/bgimage.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;    
+    background-position: center;
+    padding:0 !imporant;
 }
 .bg{
     background-color: rgba(46, 16, 131, 0.2);
